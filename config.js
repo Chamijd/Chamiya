@@ -41,7 +41,7 @@ OWNER_NUMBER: process.env.OWNER_NUMBER || "94774575878",
 // add your bot owner number
 OWNER_NAME: process.env.OWNER_NAME || "🄲🄷🄰🄼🄸🄽🄳🅄",
 // add bot owner name
-DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 🄲🄷🄰🄼🄸🄽🄳🅄*",
+DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 🄲🄷🄰🄼🄸🄽🄳🅄🔳*",
 // add bot owner name    
 // add img for alive msg
 LIVE_MSG: process.env.LIVE_MSG || "> Zinda Hun Yar *CHAMA-MD-V1*⚡",
